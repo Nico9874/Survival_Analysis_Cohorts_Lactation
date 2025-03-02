@@ -50,4 +50,4 @@ Se ajustó un **modelo de Cox** para evaluar el impacto de diferentes factores e
 - **Apoyo social y económico** para madres en pobreza, garantizando que la lactancia sea una elección informada y no solo por necesidad.  
 - **Fortalecer redes de apoyo** para la lactancia, con asesoramiento en hospitales y centros de salud.  
 
-Estos hallazgos pueden **servir como base para diseñar políticas públicas** enfocadas en mejorar la **salud materno-infantil** y fomentar la **lactancia materna de manera más efectiva**. 🚀
+Estos hallazgos pueden **servir como base para diseñar políticas públicas** enfocadas en mejorar la **salud materno-infantil** y fomentar la **lactancia materna de manera más efectiva**. 
