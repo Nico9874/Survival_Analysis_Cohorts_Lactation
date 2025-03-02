@@ -3,12 +3,14 @@
 ## Descripción  
 Este proyecto analiza la **duración de la lactancia materna** y los factores que influyen en ella mediante **análisis exploratorio, curvas de supervivencia (Kaplan-Meier) y modelos de riesgos proporcionales de Cox**. El objetivo es identificar **patrones y factores clave** que afectan la lactancia, con aplicaciones en **políticas de salud**.
 
-## Tecnologías utilizadas  
-- **Lenguaje / Framework:** R  
-- **Librerías o paquetes clave:**  
-  - survival, survminer: Modelado de supervivencia y visualización.  
-  - ggplot2, dplyr, tidyverse: Análisis exploratorio y visualización.  
-  - forestmodel: Creación de Forest Plots para interpretar el modelo de Cox.  
+## Tecnologías utilizadas
+- **Lenguaje / Framework**: R
+- **Librerías o paquetes clave**:
+  - `tidyverse`, `dplyr`, `ggplot2`, `tidyr`, `readr`: Manipulación y visualización de datos.
+  - `survival`, `survminer`, `cohorts`: Modelado de supervivencia y visualización.
+  - `viridis`, `lubridate`, `hms`: Transformaciones de datos y formatos de tiempo.
+  - `quantreg`: Análisis de regresión cuantílica.
+  - `forestmodel`: Creación de **Forest Plots** para interpretar el modelo de Cox.  
 
 ## Resultados clave  
 
